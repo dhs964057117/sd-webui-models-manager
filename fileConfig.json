@@ -1,0 +1,11 @@
+{
+    "file_config": [
+      ".pth",
+      ".safetensors",
+      ".th",
+      ".ckpt",
+      ".onnx",
+      ".pt"
+    ]
+  }
+  
