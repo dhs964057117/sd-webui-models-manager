@@ -24,7 +24,7 @@ my webui workspace is "D:\stable-diffusion-webui"
 
 then i move the lora models to "E:\AI_Project\sd_models\lora"
 
-![1](.\images\1.png)
+![1](./images/1.png)
 
 2.next select the tab "models Manager" input your new path
 
