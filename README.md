@@ -24,10 +24,10 @@ my webui workspace is "D:\stable-diffusion-webui"
 
 then i move the lora models to "E:\AI_Project\sd_models\lora"
 
-![image-20230815113157079](C:\Users\dhs\AppData\Roaming\Typora\typora-user-images\image-20230815113157079.png)
+![1](.\images\1.png)
 
 2.next select the tab "models Manager" input your new path
 
-![image-20230815113434311](C:\Users\dhs\AppData\Roaming\Typora\typora-user-images\image-20230815113434311.png)
+![image-20230815113434311](./images/2.png)
 
 click the enable and change。
