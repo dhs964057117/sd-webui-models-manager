@@ -4,9 +4,9 @@
 
 ## What it is?
 
-it is a extension for [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to manager your models path
+it is an extension for [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to manager your models path
 
-can change your models path 
+can change your models save path 
 
 ## Installation
 
