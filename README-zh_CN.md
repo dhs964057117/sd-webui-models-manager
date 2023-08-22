@@ -30,7 +30,7 @@
 
 2. 选择 "models Manager"选项卡，并在对应模型的输入框中 输入你更改后的新路径
 
-![image-20230815113434311](D:\stable-diffusion-webui\extensions\sd-webui-models-manager\images\2.png)
+![image-20230815113434311](.\images\2.png)
 
 点击按钮应用，此时刷新模型或者重启Web UI即可正常使用模型
 
@@ -46,11 +46,11 @@
 
 则  **需要打开开发者模式后才能正常使用！**
 
-![1](D:\stable-diffusion-webui\extensions\sd-webui-models-manager\images\1.png)
+![1](.\images\1.png)
 
 如果你点击后出现类似下面的错误:
 
-![3](D:\stable-diffusion-webui\extensions\sd-webui-models-manager\images\3.png) 
+![3](.\images\3.png) 
 
 需要你在开始菜单旁边的搜索中搜索**开发者选项**。打开后重新配置即可正常使用
 
