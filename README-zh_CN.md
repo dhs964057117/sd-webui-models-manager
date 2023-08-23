@@ -4,6 +4,14 @@
 
 这是一款为 [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) 设计的插件，主要用于修改模型文件的保存路径。
 
+面临以下情况时，将模型移动到另一个位置可能会很有用：
+
+- 主磁盘磁盘空间不足
+
+- 您正在多个工具中使用模型，不想将它们存储两次
+
+Web UI默认的模型文件夹是 `stable-diffusion-webui/models`
+
 ## 插件安装
 
 1. 打开“扩展”选项卡
