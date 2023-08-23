@@ -6,7 +6,8 @@
 
 it is an extension for [Stable Diffusion web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) to manager your models path
 
-can change your models save path 
+can change your models save path.
+
 Sometimes it might be useful to move your models to another location. Reasons for this could be:
 
 - Main disk has low disk space
